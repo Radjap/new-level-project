@@ -169,7 +169,7 @@ font-family: 'Open Sans', sans-serif;
 .page__header-content {
 }
 .header-content {
-  background-image: url(img/купить-продать/img.png);
+  background-image: url(../img/купить-продать/img.png);
   background-repeat: no-repeat;
   background-position: 87% 70%;
 }
